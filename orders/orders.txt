@@ -1,0 +1,10 @@
+18:45, 25th October 2021	10 tires 	50 oil	200 spark plugs	$2530	Town khebar district MATIARI
+19:06, 25th October 2021	3 tires 	4 oil	49 spark plugs	$589.6	Hyderabad Sindh
+09:28, 27th October 2021	20 tires 	30 oil	40 spark plugs	$2706	tando adam
+09:28, 27th October 2021	200 tires 	30 oil	40 spark plugs	$22506	hyderabad india
+09:30, 27th October 2021	200 tires 	30 oil	400 spark plugs	$24090	hyderabad 
+09:30, 27th October 2021	200 tires 	30 oil	400 spark plugs	$24090	hyderabad 
+09:31, 27th October 2021	200 tires 	300 oil	400 spark plugs	$27060	matiari sindh
+09:31, 27th October 2021	20 tires 	30 oil	40 spark plugs	$2706	matiari sindh
+13:14, 27th October 2021	0 tires 	0 oil	0 spark plugs	$0	
+10:33, 28th October 2021	5 tires 	4 oil	10 spark plugs	$638	khebar 
